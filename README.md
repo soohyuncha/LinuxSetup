@@ -16,4 +16,4 @@ Linux setup of oh-my-zsh, tmux, and vim
 ./vim_setup.sh
 ```
 
-Note that in each setup.sh file, there is a command with comment. If you need it, then manually enter this command in your shell.
+Note that in each ***setup.sh*** file, there is a command with comment. If you need it, then manually enter this command in your shell.
