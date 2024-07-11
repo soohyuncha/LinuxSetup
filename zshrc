@@ -74,6 +74,7 @@ ZSH_THEME="eastwood"
 plugins=(git
 	zsh-autosuggestions
 	zsh-syntax-highlighting
+	autojump
 	)
 
 source $ZSH/oh-my-zsh.sh
