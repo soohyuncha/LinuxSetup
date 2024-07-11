@@ -5,7 +5,10 @@ Linux setup of oh-my-zsh, tmux, and vim
 ```console
 ./zsh_setup.sh
 ```
-
+* When you enter an error with converting your default shell, then try the following link:
+  * https://stackoverflow.com/questions/33292541/how-do-i-change-my-default-shell-in-ubuntu-when-not-in-etc-passwd
+ 
+  
 ### 2) tmux
 ```console
 ./tmux_setup.sh
